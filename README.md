@@ -21,6 +21,6 @@ In a separate terminal execute: $ npx hardhat run ./scripts/deploy.js --network 
 6. Start frontend
 $ npm run start
 
-And dont forget to use the IPFS protocol
+And dont forget to use the IPFS protocol for adding photos and what not!
 
 
